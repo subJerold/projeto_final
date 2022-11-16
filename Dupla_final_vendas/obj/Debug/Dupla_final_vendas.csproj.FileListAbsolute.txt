@@ -1,0 +1,13 @@
+C:\Users\Jérold Máximo\source\repos\Dupla_final_vendas\Dupla_final_vendas\bin\Debug\Dupla_final_vendas.exe.config
+C:\Users\Jérold Máximo\source\repos\Dupla_final_vendas\Dupla_final_vendas\bin\Debug\Dupla_final_vendas.exe
+C:\Users\Jérold Máximo\source\repos\Dupla_final_vendas\Dupla_final_vendas\bin\Debug\Dupla_final_vendas.pdb
+C:\Users\Jérold Máximo\source\repos\Dupla_final_vendas\Dupla_final_vendas\obj\Debug\Dupla_final_vendas.csproj.AssemblyReference.cache
+C:\Users\Jérold Máximo\source\repos\Dupla_final_vendas\Dupla_final_vendas\obj\Debug\Dupla_final_vendas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jérold Máximo\source\repos\Dupla_final_vendas\Dupla_final_vendas\obj\Debug\Dupla_final_vendas.Form1.resources
+C:\Users\Jérold Máximo\source\repos\Dupla_final_vendas\Dupla_final_vendas\obj\Debug\Dupla_final_vendas.Properties.Resources.resources
+C:\Users\Jérold Máximo\source\repos\Dupla_final_vendas\Dupla_final_vendas\obj\Debug\Dupla_final_vendas.csproj.GenerateResource.cache
+C:\Users\Jérold Máximo\source\repos\Dupla_final_vendas\Dupla_final_vendas\obj\Debug\Dupla_final_vendas.csproj.CoreCompileInputs.cache
+C:\Users\Jérold Máximo\source\repos\Dupla_final_vendas\Dupla_final_vendas\obj\Debug\Dupla_final_vendas.exe
+C:\Users\Jérold Máximo\source\repos\Dupla_final_vendas\Dupla_final_vendas\obj\Debug\Dupla_final_vendas.pdb
+C:\Users\Jérold Máximo\source\repos\Dupla_final_vendas\Dupla_final_vendas\obj\Debug\Dupla_final_vendas.frm_categorias.resources
+C:\Users\Jérold Máximo\source\repos\Dupla_final_vendas\Dupla_final_vendas\obj\Debug\Dupla_final_vendas.frm_produtos.resources
