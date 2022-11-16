@@ -63,7 +63,12 @@ namespace Dupla_final_vendas
 
         private void cadastroToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+          /*
+           git add .
+           git commit -m "Digitar oque foi feito"
+           git push
+           */
+          
         }
     }
 }
